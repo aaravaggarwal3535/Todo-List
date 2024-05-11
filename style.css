@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {}
+
+.optionHolder {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  text-align: center;
+  margin: 0 5vw 0 5vw;
+  background-color: blanchedalmond;
+}
+
+.prompt {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: brown;
+  color: yellow;
+  border: 1px solid lawngreen;
+}
+
+.todoHolder {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: mistyrose;
+}
+
+.textp {
+  font-weight: bold;
+  color: red;
+  font-size: 2vw;
+  background-color: black;
+}
+
+.texth {
+  background-color: black;
+}
+
+.card-body {
+  background-color: gray;
+}
+
+.card-title {
+  color: yellow;
+}
+
+.card-text {
+  color: yellow;
+}
